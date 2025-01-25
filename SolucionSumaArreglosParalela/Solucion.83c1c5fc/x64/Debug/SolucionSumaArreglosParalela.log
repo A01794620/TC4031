@@ -1,0 +1,5 @@
+﻿  SolucionSumaArreglosParalela.cpp
+C:\AlgoriML\tecmon\cursos_repo\TC4031\semana_03\proyectosOMP\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(90,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\AlgoriML\tecmon\cursos_repo\TC4031\semana_03\proyectosOMP\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(74,9): warning C4101: 'i': unreferenced local variable
+C:\AlgoriML\tecmon\cursos_repo\TC4031\semana_03\proyectosOMP\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(153,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SolucionSumaArreglosParalela.vcxproj -> C:\AlgoriML\tecmon\cursos_repo\TC4031\semana_03\proyectosOMP\SolucionSumaArreglosParalela\x64\Debug\SolucionSumaArreglosParalela.exe
